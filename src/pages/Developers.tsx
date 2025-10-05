@@ -36,11 +36,11 @@ export default function Developers() {
             <div className="flex items-center justify-center mb-4">
               <Users className="w-8 h-8 text-[#FFE81F] mr-3" />
               <h1 className="text-4xl md:text-5xl font-bold text-[#FFE81F] text-glow">
-                Development Team
+                Genome Hub
               </h1>
             </div>
             <p className="text-gray-400 text-lg">
-              Built for NASA Space Apps Challenge 2024
+              Built for NASA Space Apps Challenge 2025
             </p>
           </motion.div>
 
@@ -56,7 +56,7 @@ export default function Developers() {
                   GH
                 </div>
                 <div className="ml-4">
-                  <h2 className="text-2xl font-bold text-white">Your Name</h2>
+                  <h2 className="text-2xl font-bold text-white">Raghuvaran D</h2>
                   <p className="text-[#00C8FF]">Full Stack Developer</p>
                 </div>
               </div>
@@ -68,7 +68,7 @@ export default function Developers() {
 
               <div className="flex flex-wrap gap-3">
                 <a
-                  href="https://github.com"
+                  href="https://github.com/RaghuvaranDBECse32/Genome-Hub/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center space-x-2 px-4 py-2 bg-gray-800 hover:bg-[#FFE81F]/20 border border-gray-700 hover:border-[#FFE81F] rounded-lg text-gray-300 hover:text-[#FFE81F] transition-all"
@@ -77,14 +77,14 @@ export default function Developers() {
                   <span>GitHub</span>
                 </a>
                 <a
-                  href="mailto:your.email@example.com"
+                  href="raghuvarandamodaran2002@gmail.com"
                   className="flex items-center space-x-2 px-4 py-2 bg-gray-800 hover:bg-[#00C8FF]/20 border border-gray-700 hover:border-[#00C8FF] rounded-lg text-gray-300 hover:text-[#00C8FF] transition-all"
                 >
                   <Mail className="w-4 h-4" />
                   <span>Email</span>
                 </a>
                 <a
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/raghuvaran-damodaran-57b971239/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center space-x-2 px-4 py-2 bg-gray-800 hover:bg-[#00C8FF]/20 border border-gray-700 hover:border-[#00C8FF] rounded-lg text-gray-300 hover:text-[#00C8FF] transition-all"
@@ -167,7 +167,7 @@ export default function Developers() {
 
             <div className="flex flex-wrap gap-4 justify-center">
               <a
-                href="https://github.com"
+                href="https://github.com/RaghuvaranDBECse32/Genome-Hub"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-2 px-6 py-3 bg-[#FFE81F] text-black font-semibold rounded-lg hover:bg-[#00C8FF] hover:text-white transition-all"
@@ -177,7 +177,7 @@ export default function Developers() {
                 <ExternalLink className="w-4 h-4" />
               </a>
               <a
-                href="https://www.spaceappschallenge.org/"
+                href="https://www.spaceappschallenge.org/2025/find-a-team/genome-hub/?tab=project"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-2 px-6 py-3 border-2 border-[#00C8FF] text-[#00C8FF] font-semibold rounded-lg hover:bg-[#00C8FF]/10 transition-all"

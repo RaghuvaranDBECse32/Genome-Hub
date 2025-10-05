@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Microgravity Effects on Cell Growth",
+    "category": "Cell Biology",
+    "description": "Study of how microgravity environments affect cellular division and growth patterns in space.",
+    "source": "NASA GeneLab",
+    "year": 2023,
+    "url": "https://genelab.nasa.gov/",
+    "tags": ["microgravity", "cells", "ISS"]
+  },
+  {
+    "id": 2,
+    "title": "Plant Growth in Space Habitats",
+    "category": "Botany",
+    "description": "Research on cultivating vegetables and plants in closed-loop space environments for long-duration missions.",
+    "source": "NASA Veggie",
+    "year": 2022,
+    "url": "https://www.nasa.gov/mission_pages/station/research/experiments/explorer/Investigation.html?#id=7701",
+    "tags": ["plants", "food", "sustainability"]
+  },
+  {
+    "id": 3,
+    "title": "Bone Density Loss in Astronauts",
+    "category": "Human Physiology",
+    "description": "Investigation into mechanisms of bone density reduction during extended spaceflight and countermeasures.",
+    "source": "NASA Human Research Program",
+    "year": 2023,
+    "url": "https://www.nasa.gov/hrp/",
+    "tags": ["human health", "bones", "exercise"]
+  },
+  {
+    "id": 4,
+    "title": "Radiation Effects on DNA",
+    "category": "Genetics",
+    "description": "Analysis of cosmic radiation impact on genetic material and cellular repair mechanisms.",
+    "source": "ISRO Space Biology",
+    "year": 2022,
+    "url": "https://www.isro.gov.in/",
+    "tags": ["radiation", "DNA", "protection"]
+  },
+  {
+    "id": 5,
+    "title": "Bacterial Behavior in Microgravity",
+    "category": "Microbiology",
+    "description": "Study of bacterial colonization patterns and antibiotic resistance in space environments.",
+    "source": "NASA GeneLab",
+    "year": 2023,
+    "url": "https://genelab.nasa.gov/",
+    "tags": ["bacteria", "microbiome", "ISS"]
+  },
+  {
+    "id": 6,
+    "title": "Cardiovascular Changes in Space",
+    "category": "Human Physiology",
+    "description": "Research on heart function adaptations and blood flow dynamics during spaceflight.",
+    "source": "NASA HRP",
+    "year": 2023,
+    "url": "https://www.nasa.gov/hrp/",
+    "tags": ["heart", "circulation", "health"]
+  },
+  {
+    "id": 7,
+    "title": "Immune System Adaptation",
+    "category": "Immunology",
+    "description": "Investigation of immune response changes in astronauts during long-duration space missions.",
+    "source": "ESA Space Medicine",
+    "year": 2022,
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Space_medicine",
+    "tags": ["immunity", "health", "adaptation"]
+  },
+  {
+    "id": 8,
+    "title": "Protein Crystallization in Space",
+    "category": "Biochemistry",
+    "description": "Study of enhanced protein crystal formation in microgravity for drug development.",
+    "source": "NASA ISS Research",
+    "year": 2023,
+    "url": "https://www.nasa.gov/mission_pages/station/research/",
+    "tags": ["proteins", "crystals", "medicine"]
+  },
+  {
+    "id": 9,
+    "title": "Fruit Fly Genetics Experiments",
+    "category": "Genetics",
+    "description": "Multi-generational studies of Drosophila in space to understand hereditary effects of spaceflight.",
+    "source": "NASA GeneLab",
+    "year": 2021,
+    "url": "https://genelab.nasa.gov/",
+    "tags": ["genetics", "model organism", "heredity"]
+  },
+  {
+    "id": 10,
+    "title": "Algae for Life Support Systems",
+    "category": "Astrobiology",
+    "description": "Research on using photosynthetic organisms for oxygen production and CO2 recycling in spacecraft.",
+    "source": "ISRO Life Support",
+    "year": 2023,
+    "url": "https://www.isro.gov.in/",
+    "tags": ["algae", "oxygen", "sustainability"]
+  },
+  {
+    "id": 11,
+    "title": "Muscle Atrophy Countermeasures",
+    "category": "Human Physiology",
+    "description": "Development of exercise protocols and pharmaceuticals to prevent muscle loss in space.",
+    "source": "NASA HRP",
+    "year": 2023,
+    "url": "https://www.nasa.gov/hrp/",
+    "tags": ["muscles", "exercise", "health"]
+  },
+  {
+    "id": 12,
+    "title": "Tardigrade Survival in Space",
+    "category": "Astrobiology",
+    "description": "Study of extremophile organisms and their ability to survive in the vacuum of space.",
+    "source": "ESA Expose Facility",
+    "year": 2022,
+    "url": "https://www.esa.int/",
+    "tags": ["extremophiles", "survival", "astrobiology"]
+  }
+]

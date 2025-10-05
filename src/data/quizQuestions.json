@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary challenge astronauts face regarding bone health during long-duration spaceflight?",
+    "options": [
+      "Increased bone density",
+      "Bone density loss due to microgravity",
+      "Bone hardening",
+      "No significant changes"
+    ],
+    "correct": 1,
+    "explanation": "In microgravity, astronauts experience bone density loss at a rate of 1-2% per month due to reduced mechanical loading on the skeletal system."
+  },
+  {
+    "id": 2,
+    "question": "Which NASA facility conducts research on growing plants in space for food production?",
+    "options": [
+      "NASA Veggie Project",
+      "NASA Fruit Lab",
+      "NASA Garden Station",
+      "NASA Plant Factory"
+    ],
+    "correct": 0,
+    "explanation": "The Veggie (Vegetable Production System) facility aboard the ISS investigates plant growth in microgravity to support future long-duration space missions."
+  },
+  {
+    "id": 3,
+    "question": "What effect does space radiation have on astronaut DNA?",
+    "options": [
+      "No effect at all",
+      "Strengthens DNA structure",
+      "Can cause DNA damage and increase cancer risk",
+      "Makes DNA replicate faster"
+    ],
+    "correct": 2,
+    "explanation": "Cosmic radiation and solar particles can damage DNA, potentially increasing cancer risk and affecting cellular repair mechanisms."
+  },
+  {
+    "id": 4,
+    "question": "How do bacteria behave differently in microgravity compared to Earth?",
+    "options": [
+      "They cannot survive in space",
+      "They grow slower",
+      "They may become more virulent and form thicker biofilms",
+      "They lose all resistance to antibiotics"
+    ],
+    "correct": 2,
+    "explanation": "Studies show that some bacteria can become more virulent in microgravity, form thicker biofilms, and may exhibit altered antibiotic resistance patterns."
+  },
+  {
+    "id": 5,
+    "question": "What is NASA GeneLab?",
+    "options": [
+      "A genetics testing company",
+      "An open science database for space biology research",
+      "A laboratory on Mars",
+      "A DNA storage facility"
+    ],
+    "correct": 1,
+    "explanation": "NASA GeneLab is an open-access database that hosts omics data from spaceflight and space-relevant experiments, making space biology research accessible to scientists worldwide."
+  },
+  {
+    "id": 6,
+    "question": "Why is protein crystallization research conducted in space?",
+    "options": [
+      "Proteins don't crystallize on Earth",
+      "Microgravity allows for higher-quality crystal formation useful for drug development",
+      "It's cheaper in space",
+      "Proteins grow larger in space"
+    ],
+    "correct": 1,
+    "explanation": "Microgravity conditions allow proteins to form larger, more ordered crystals, which helps scientists better understand protein structures for pharmaceutical research."
+  },
+  {
+    "id": 7,
+    "question": "What happens to the human cardiovascular system during extended spaceflight?",
+    "options": [
+      "Heart becomes stronger",
+      "No changes occur",
+      "Heart and blood vessels adapt to reduced workload, potentially weakening",
+      "Blood pressure increases permanently"
+    ],
+    "correct": 2,
+    "explanation": "In microgravity, the cardiovascular system doesn't need to work as hard to pump blood, leading to cardiac deconditioning and changes in blood vessel function."
+  },
+  {
+    "id": 8,
+    "question": "Which organism is famous for surviving in the vacuum of space?",
+    "options": [
+      "Cockroaches",
+      "Tardigrades (water bears)",
+      "Butterflies",
+      "Jellyfish"
+    ],
+    "correct": 1,
+    "explanation": "Tardigrades can survive extreme conditions including the vacuum of space, radiation, and extreme temperatures by entering a state called cryptobiosis."
+  },
+  {
+    "id": 9,
+    "question": "What is a major concern regarding the immune system during spaceflight?",
+    "options": [
+      "Immune system becomes overactive",
+      "Astronauts become immune to all diseases",
+      "Immune function may be suppressed, increasing infection risk",
+      "White blood cells multiply too rapidly"
+    ],
+    "correct": 2,
+    "explanation": "Research shows that spaceflight can suppress immune function, making astronauts more susceptible to infections and reactivation of dormant viruses."
+  },
+  {
+    "id": 10,
+    "question": "Why are fruit flies (Drosophila) used in space genetics research?",
+    "options": [
+      "They don't need oxygen",
+      "They have short life cycles allowing multi-generational studies",
+      "They can survive without food",
+      "They produce their own water"
+    ],
+    "correct": 1,
+    "explanation": "Fruit flies have short life cycles (about 10 days), making them ideal for studying how spaceflight affects multiple generations and understanding hereditary effects."
+  },
+  {
+    "id": 11,
+    "question": "What role could algae play in future long-duration space missions?",
+    "options": [
+      "Entertainment for astronauts",
+      "Oxygen production and CO2 recycling",
+      "Navigation systems",
+      "Fuel production only"
+    ],
+    "correct": 1,
+    "explanation": "Algae can perform photosynthesis, converting CO2 into oxygen while producing biomass that could be used for food, making them valuable for closed-loop life support systems."
+  },
+  {
+    "id": 12,
+    "question": "What is the primary goal of ISRO's space biology research?",
+    "options": [
+      "Creating new species",
+      "Understanding biological adaptations to space for human exploration",
+      "Testing alien life forms",
+      "Manufacturing medicines"
+    ],
+    "correct": 1,
+    "explanation": "ISRO's space biology research focuses on understanding how living organisms adapt to space environments, which is crucial for planning long-duration human space missions."
+  },
+  {
+    "id": 13,
+    "question": "How much muscle mass can astronauts lose per month in space without countermeasures?",
+    "options": [
+      "No muscle loss occurs",
+      "Up to 20% per month",
+      "About 5% per month",
+      "Muscle mass increases"
+    ],
+    "correct": 1,
+    "explanation": "Without exercise countermeasures, astronauts can lose up to 20% of their muscle mass during spaceflight, particularly in weight-bearing muscles."
+  },
+  {
+    "id": 14,
+    "question": "What is the purpose of NASA's Human Research Program (HRP)?",
+    "options": [
+      "Training astronauts to fly spacecraft",
+      "Studying and mitigating health risks of spaceflight",
+      "Building new space stations",
+      "Recruiting new astronauts"
+    ],
+    "correct": 1,
+    "explanation": "NASA's HRP investigates and mitigates the highest risks to human health and performance in space, enabling safe and productive long-duration exploration missions."
+  },
+  {
+    "id": 15,
+    "question": "Why is studying cell growth in microgravity important?",
+    "options": [
+      "Cells grow faster in space",
+      "It helps understand fundamental biological processes and disease mechanisms",
+      "Cells become immortal in space",
+      "It's only for entertainment"
+    ],
+    "correct": 1,
+    "explanation": "Microgravity provides a unique environment to study cellular processes without gravity's influence, revealing insights into tissue engineering, cancer research, and aging."
+  }
+]

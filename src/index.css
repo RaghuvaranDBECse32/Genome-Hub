@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Inter:wght@300;400;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-black text-white font-sans;
+    font-family: 'Inter', sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Orbitron', sans-serif;
+  }
+}
+
+@layer utilities {
+  .text-glow {
+    text-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor;
+  }
+
+  .border-glow {
+    box-shadow: 0 0 10px currentColor, 0 0 20px currentColor;
+  }
+
+  .lcars-gold {
+    color: #FFE81F;
+  }
+
+  .lcars-blue {
+    color: #00C8FF;
+  }
+
+  .bg-space {
+    background: radial-gradient(ellipse at bottom, #1B2735 0%, #090A0F 100%);
+  }
+}

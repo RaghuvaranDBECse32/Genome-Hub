@@ -58,7 +58,7 @@ export default function Presentation() {
 
               <div className="flex flex-col gap-3">
                 <a
-                  href="#"
+                  href="https://docs.google.com/presentation/d/1j8eBKm-CZtJtTHAkID_1rrjkewEetvd0/edit?usp=sharing&ouid=100280380745398753487&rtpof=true&sd=true"
                   className="flex items-center justify-center space-x-2 px-6 py-3 bg-[#FFE81F] text-black font-semibold rounded-lg hover:bg-[#00C8FF] hover:text-white transition-all"
                 >
                   <Download className="w-5 h-5" />

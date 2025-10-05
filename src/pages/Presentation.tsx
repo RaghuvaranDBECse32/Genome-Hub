@@ -65,7 +65,7 @@ export default function Presentation() {
                   <span>Download Presentation (PPTX)</span>
                 </a>
                 <a
-                  href="#"
+                  href="https://1drv.ms/p/c/2a90bb9eb9d67148/EaO_DpnPA1JBnP7D9V50b7AB4KSE2zu7GMdFj8PQ0-RT7Q?e=ZRCwNQ"
                   className="flex items-center justify-center space-x-2 px-6 py-3 border-2 border-[#00C8FF] text-[#00C8FF] font-semibold rounded-lg hover:bg-[#00C8FF]/10 transition-all"
                 >
                   <FileText className="w-5 h-5" />

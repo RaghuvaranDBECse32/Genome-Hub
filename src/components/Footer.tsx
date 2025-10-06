@@ -8,22 +8,22 @@ export default function Footer() {
           <div className="flex items-center space-x-2">
             <Rocket className="w-5 h-5 text-[#FFE81F]" />
             <span className="text-sm text-gray-400">
-              Genome Hub © 2024 | NASA Space Apps Challenge
+              Genome Hub © 2025 | NASA Space Apps Challenge 2025
             </span>
           </div>
 
           <div className="flex items-center space-x-6">
             <a
-              href="https://www.nasa.gov/genelab/"
+              href="https://www.spaceappschallenge.org/2025/find-a-team/genome-hub/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-2 text-[#00C8FF] hover:text-[#FFE81F] transition-colors"
             >
               <Globe className="w-4 h-4" />
-              <span className="text-sm">NASA GeneLab</span>
+              <span className="text-sm">NASA Project Link</span>
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/RaghuvaranDBECse32/Genome-Hub"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-2 text-[#00C8FF] hover:text-[#FFE81F] transition-colors"

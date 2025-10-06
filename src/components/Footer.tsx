@@ -8,7 +8,7 @@ export default function Footer() {
           <div className="flex items-center space-x-2">
             <Rocket className="w-5 h-5 text-[#FFE81F]" />
             <span className="text-sm text-gray-400">
-              Genome Hub © 2025 | NASA Space Apps Challenge 2025
+              Genome Hub © 2025 |  NASA International Space Apps Challenge 2025
             </span>
           </div>
 
